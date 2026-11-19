@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Darren's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+layout: page
+title: "CS61A Animator"
+permalink: /animator
